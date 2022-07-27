@@ -1,2 +1,1 @@
-![](ghost.gif)
-<img src="ghost.gif" width="250" height="250"/>
+<img src="ghost.gif" class="center" width="250" height="250"/>
