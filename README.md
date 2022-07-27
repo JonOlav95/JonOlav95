@@ -1,8 +1,6 @@
- .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
+<p align="center">
+  <img src="ghost.gif" class="center" width="720" height="400"/>
+</p>
 
-<img src="ghost.gif" class="center" width="100%" height="400"/>
+
+
